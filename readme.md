@@ -1,5 +1,9 @@
 # Three.js Journey
 
+## DEPLOY
+
+[Adding Details to the Scene](https://adding-details-to-the-scene.vercel.app/)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
